@@ -9,3 +9,26 @@ then all the accountEmail is replace by xyz@gmail
 
 
 Lecture 5: DataTypes and ECMA Standard
+
+Ranges of Data types
+1. number=2 to power 53
+2. bigint=stores longest number
+3.string=" "
+4. boolean =true/false
+5. NULL =standalone value(type of null is object)
+6. undefined=only declare not initialized(type of undefined is undefined)
+7. symbol =identify uniqueness
+6. object
+
+
+Lecture 6: Coversion of data types
+#when converting any data types into number
+1."33"-> 33
+2. "33abc" -> NaN
+3.true =>1, false=>0
+
+
+#converting any data types to boolean
+1. 1->true , 0=>false
+2. " "=> false
+3. "hitesh"=>true
