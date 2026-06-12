@@ -1,0 +1,41 @@
+Output:
+PS C:\Users\nandi\OneDrive\Desktop\Javascript 25 Days Challenge\Day 10> node arraychallenge.js
+push():
+[ 'Kesariya', 'apna bana le', 'Perfect' ]
+
+pop():
+Removed Song: Perfect
+[ 'Kesariya', 'apna bana le' ]
+
+ unshift():
+[ 'Saiyaara', 'Heeriye', 'Shape of You' ]
+
+shift():
+Removed: Tum Hi Ho
+[ 'Die With A Smile', "We Don's Talk Anymore" ]
+
+ includes():
+true
+
+indexOf():
+2
+
+slice():
+[ 'Kesariya', 'Shape of You', 'Heeriye' ]
+
+splice() Delete:
+[ 'Kesariya', 'Perfect' ]
+
+splice() Update:
+[ 'Kesariya', 'Die With A Smile', 'Perfect' ]
+
+
+
+
+
+
+
+
+
+
+
